@@ -1,2 +1,2 @@
-# first-repo-form-terraform
+# first-repo-from-terraform
 create first repository by terraform script
